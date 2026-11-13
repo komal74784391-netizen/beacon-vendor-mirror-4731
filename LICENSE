@@ -1,0 +1,6 @@
+# Repository licensing
+
+This repository is a vendor mirror. It carries no repository-wide license.
+
+Each vendored component keeps the license file committed in its own subtree at
+`components/<component_key>/LICENSE`.
